@@ -1,1 +1,6 @@
+
 https://craftinginterpreters.com/contents.html
+
+solutions for automata-theory:
+https://engineeringwithrajdocsupporter.files.wordpress.com/2015/05/rich_automata_solns-copy.pdf
+
