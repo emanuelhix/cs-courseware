@@ -1,5 +1,9 @@
 # Online Courseware #
 
+## GITHUB REPO WITH MORE RESOURCES
+https://github.com/Shashwat4K/Textbooks-and-study-material.git
+
+## Textbook on Interpreters
 https://craftinginterpreters.com/contents.html
 
 ## solutions for automata-theory:
@@ -10,3 +14,4 @@ https://annas-archive.org/md5/c08e98007c55fb678e4becd2be9a427c
 
 ## FULL LECTURES FOR LINEAR ALGEBRA
 https://youtu.be/bLULeZgwsTM
+
