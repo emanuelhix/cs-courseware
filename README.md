@@ -15,3 +15,6 @@ https://annas-archive.org/md5/c08e98007c55fb678e4becd2be9a427c
 ## FULL LECTURES FOR LINEAR ALGEBRA
 https://youtu.be/bLULeZgwsTM
 
+## Condensed textbook slides for Automata Theory / Theory of Computation
+
+https://userweb.cs.txstate.edu/~jg66/teaching/theory/
