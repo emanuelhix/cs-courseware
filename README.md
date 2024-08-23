@@ -1,9 +1,6 @@
 # online courseware #
 
-Note: Some of the textbooks and resources here are not "required" or necessarily recommended/vetted by a particular subject's professor.
-Sometimes I add resources that I've come across during my own studies.
-Additionally, some resources are lifted from Anna's Archive.That website has long download times so its best to pull from here if possible.
-If your textbook cannot be found, there's a good chance it's on [Anna's Archive](https://annas-archive.org/). They scrape all the public libraries like libgen and dokumen.pub.
+Note: The textbooks and resources listed here are not always "required" or officially recommended by the course professor. I may include materials I've discovered during my own studies, as well as some sourced from Anna's Archive. Please be aware that download times from Anna's Archive can be quite long, so it's best to use the resources available here when possible. If you can’t find a specific textbook, it's likely available on [Anna's Archive](https://annas-archive.org/), which aggregates content from public libraries like LibGen and Dokumen.pub.
 
 ## theory of computation
 - [condensed textbook slides for Automata Theory by Elaine Rich](https://userweb.cs.txstate.edu/~jg66/teaching/theory/)
