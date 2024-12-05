@@ -6,8 +6,8 @@ Note: The textbooks and resources listed here are not always "required" or offic
 
 ## calculus
 
-[Professor Leonard](https://www.youtube.com/@ProfessorLeonard/playlists)
-[Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard/playlists)
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 
 ## computer security
 
